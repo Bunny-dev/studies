@@ -12,3 +12,5 @@ Welcome to the main repository of my github! [![GitHubBadge](https://img.shields
 📍 Hobbies: Code / Play the Guitar / Read Manga / Play Video-Games / Netflix<br>
 
 ### 📌 Social Media
+
+Youtube [![YoutubeBadge](https://img.shields.io/badge/Youtube-Neztle-00acfe?style=flat-square)](https://www.youtube.com/channel/UCSP2v3ZtWwEsTIJIylURezw?view_as=subscriber)
