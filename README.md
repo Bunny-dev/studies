@@ -10,3 +10,5 @@ Welcome to the main repository of my github! [![GitHubBadge](https://img.shields
 📍 Languages: Portuguese / English / French<br>
 📍 Class: Computing<br>
 📍 Hobbies: Code / Play the Guitar / Read Manga / Play Video-Games / Netflix<br>
+
+### 📌 Social Media
