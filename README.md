@@ -1,5 +1,5 @@
 # Studies
-![Coding.jpg](https://i.pinimg.com/originals/d2/b7/eb/d2b7eb3d83f3cca4fb23b7cf182dadce.gif)
+![HinataHaikyuu.gif](https://i.pinimg.com/originals/d2/b7/eb/d2b7eb3d83f3cca4fb23b7cf182dadce.gif)
 #
 Welcome to the main repository of my github! [![GitHubBadge](https://img.shields.io/badge/GitHub.io-Neztle-ff63c1?style=flat-square)](https://github.com/Neztle)<br><br>Here I will be placing some of my "mini projects" that I use to study.<br>
 I usually program with C++, C#, Python and Javascript.
