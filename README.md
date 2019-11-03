@@ -13,4 +13,6 @@ Welcome to the main repository of my github! [![GitHubBadge](https://img.shields
 
 ### 📌 Social Media
 
-Youtube [![YoutubeBadge](https://img.shields.io/badge/Youtube-Neztle-00acfe?style=flat-square)](https://www.youtube.com/channel/UCSP2v3ZtWwEsTIJIylURezw?view_as=subscriber)
+Youtube [![YoutubeBadge](https://img.shields.io/badge/Youtube-Neztle-00acfe?style=flat-square)](https://www.youtube.com/channel/UCSP2v3ZtWwEsTIJIylURezw?view_as=subscriber)<br>
+
+Twitter [![YoutubeBadge](https://img.shields.io/badge/Twitter-brunuumiguel-00acfe?style=flat-square)](https://twitter.com/brunuumiguel)
