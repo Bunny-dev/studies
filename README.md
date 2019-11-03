@@ -1,7 +1,8 @@
 # Studies
 ![Coding.jpg](https://blog.netzee.com.br/wp-content/uploads/2017/10/blog-netzee-principais-linguagens-de-programacao-usadas-na-criacao-de-um-site-980x490.png)
 #
-Welcome to the main repository of my github! [![GitHubBadge](https://img.shields.io/badge/GitHub.io-Neztle-ff63c1?style=flat-square)](https://github.com/Neztle)
+Welcome to the main repository of my github! [![GitHubBadge](https://img.shields.io/badge/GitHub.io-Neztle-ff63c1?style=flat-square)](https://github.com/Neztle)<br><br>Here I will be placing some of my "mini projects" that I use to study.<br>
+I usually program with C++, C#, Python and Javascript.
 # 
 ### 📌 About Me
 📍 Name: Bruno<br>
@@ -13,6 +14,6 @@ Welcome to the main repository of my github! [![GitHubBadge](https://img.shields
 
 ### 📌 Social Media
 
-Youtube [![YoutubeBadge](https://img.shields.io/badge/Youtube-Neztle-00acfe?style=flat-square)](https://www.youtube.com/channel/UCSP2v3ZtWwEsTIJIylURezw?view_as=subscriber)<br>
+📍 Youtube [![YoutubeBadge](https://img.shields.io/badge/Youtube-Neztle-00acfe?style=flat-square)](https://www.youtube.com/channel/UCSP2v3ZtWwEsTIJIylURezw?view_as=subscriber)<br>
 
-Twitter [![YoutubeBadge](https://img.shields.io/badge/Twitter-brunuumiguel-00acfe?style=flat-square)](https://twitter.com/brunuumiguel)
+📍 Twitter [![YoutubeBadge](https://img.shields.io/badge/Twitter-brunuumiguel-00acfe?style=flat-square)](https://twitter.com/brunuumiguel)
