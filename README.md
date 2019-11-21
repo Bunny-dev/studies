@@ -16,10 +16,6 @@ I usually program with C++, C#, Python and Javascript.
 
 📍 Youtube [![YoutubeBadge](https://img.shields.io/badge/Youtube-Neztle-fc8803?style=flat-square)](https://www.youtube.com/channel/UCSP2v3ZtWwEsTIJIylURezw?view_as=subscriber)<br>
 
-📍 Twitter [![YoutubeBadge](https://img.shields.io/badge/Twitter-brunuumiguel-fc8803?style=flat-square)](https://twitter.com/brunuumiguel)
-<br><br>You should totally add me on Discord!<br>
-```Bunny#5539```
-
 <br><br>
 [![Followers](https://img.shields.io/github/followers/neztle?style=social)](https://github.com/neztle/studies/)[![Forks](https://img.shields.io/github/forks/neztle/studies?style=social)](https://github.com/neztle/studies/)[![Stars](https://img.shields.io/github/stars/neztle/studies?style=social)](https://github.com/neztle/studies/)
 <br>
